@@ -115,7 +115,7 @@ class HeartMuLaGenPipeline:
         self._codec: Optional[HeartCodec] = None
         if not lazy_load:
             print(
-                f"You have set lazy_load = False. Loading HeartMuLa and HeartCodec onto devices..."
+                f"You have set lazy_load = False. Loading HeartMuLa and HeartCodec onto device..."
             )
             self._mula = HeartMuLa.from_pretrained(
                 self.mula_path,
