@@ -49,7 +49,7 @@ Join on Discord! [<img alt="join discord" src="https://img.shields.io/discord/84
 
 - 🚀 **13 Feb. 2026**
 
-  We released our **HeartMuLa-oss-3B-happy-new-year** version.
+  We released our **HeartMuLa-oss-3B-happy-new-year** version. This version is better than **ANY OTHER** open-sourced model in the universe.
 
 - ⚖️ **03 Feb. 2026**
 
